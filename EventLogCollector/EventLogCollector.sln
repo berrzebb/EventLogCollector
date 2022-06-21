@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLogCollectorLibrary", "EventLogCollector\EventLogCollectorLibrary.csproj", "{B1A4B786-C8B4-4D67-9351-802DD11ABF74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLogCollectorConsole", "EventLogCollectorConsole\EventLogCollectorConsole.csproj", "{D1DAF73E-5696-49C0-82AF-5557008C59AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1A4B786-C8B4-4D67-9351-802DD11ABF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A4B786-C8B4-4D67-9351-802DD11ABF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A4B786-C8B4-4D67-9351-802DD11ABF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A4B786-C8B4-4D67-9351-802DD11ABF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DAF73E-5696-49C0-82AF-5557008C59AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DAF73E-5696-49C0-82AF-5557008C59AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DAF73E-5696-49C0-82AF-5557008C59AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DAF73E-5696-49C0-82AF-5557008C59AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38AB8E65-60BD-4BD8-98F0-0DCE8BE0B335}
+	EndGlobalSection
+EndGlobal
